@@ -1,0 +1,10 @@
+outcome,exposition,r,p_value,direction,force
+Taux de gravité AT,Contraintes Posturales,0.91,0.0007,↑,Forte
+Indice de fréquence AT,Contraintes Posturales,0.907,0.0007,↑,Forte
+Maladies professionnelles,Agents Biologiques,0.892,0.0012,↑,Forte
+Indice de fréquence AT,Travail Ecran 6H,-0.863,0.0027,↓,Forte
+Taux de gravité AT,Travail Ecran 6H,-0.833,0.0053,↓,Forte
+Taux de gravité AT,Bruit 85Db,0.738,0.0231,↑,Forte
+AT graves,Contraintes Posturales,0.733,0.0247,↑,Forte
+Maladies professionnelles,Contraintes Posturales,0.695,0.0376,↑,Modérée
+Indice de fréquence AT,Gestes Repetitifs,0.675,0.0463,↑,Modérée
