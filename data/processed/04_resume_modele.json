@@ -1,0 +1,17 @@
+{
+  "modele": "Random Forest Classifier",
+  "n_estimators": 200,
+  "max_depth": 8,
+  "accuracy_test": 0.6052631578947368,
+  "f1_macro_test": 0.6444805194805195,
+  "cv_f1_mean": 0.6399741026946909,
+  "cv_f1_std": 0.06190271799170209,
+  "ecart_fairness": 0.017027863777089758,
+  "top_feature": "pct_60_plus",
+  "classes": [
+    "Faible",
+    "Modéré",
+    "Très élevé",
+    "Élevé"
+  ]
+}
